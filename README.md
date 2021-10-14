@@ -1,6 +1,6 @@
 ### Hi there, I am Bharat 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=joshi-bharat)
+![Github stats](https://github-readme-stats.vercel.app/api?username=joshi-bharat&show_icons=true&theme=gotham)
 <!--
 **joshi-bharat/joshi-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
