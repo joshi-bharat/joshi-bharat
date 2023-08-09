@@ -1,6 +1,6 @@
 ### Hi there, I am Bharat 👋
 I am working on problems at the intersection of Robotics x Computer Vision at [Autonomous Field Robotics Lab](https://afrl.cse.sc.edu/afrl/home/). My research is focused on increasing the robustness of visual-inertial SLAM for underwater environments. I have worked on projects involving comparing various state estimation algorithms in the underwater domain, developing a deep pose estimation framework for underwater relative localization, and using GoPro as an inexpensive sensor for underwater structure mapping. I recently finished working on robust underwater state estimation by swithing between less-accurate odometry estimate and accurate VIO to get track AUVs when VIO fails.
-- 🔭 I’m currently working on tightly-coupled fusion of magnetometer with Visual-Inertial SLAM.
+ 🔭 I’m currently working on tightly-coupled fusion of magnetometer with Visual-Inertial SLAM.
 <!--
 **joshi-bharat/joshi-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
